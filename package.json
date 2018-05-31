@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/kino6052/higuys-challenge#readme",
   "devDependencies": {
+    "babel-loader": "^7.1.4",
     "bootstrap": "^4.1.1",
     "jquery": "^3.3.1",
     "popper.js": "^1.14.3",
